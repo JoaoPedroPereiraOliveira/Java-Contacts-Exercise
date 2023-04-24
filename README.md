@@ -18,7 +18,7 @@ The project aims to help learners practice their Java skills by creating a real-
 
 Here is something you probably use regularly: contacts. In this project, is a program to create contacts (like on the mobile phone) and search for people or organizations by name.
 
-1. Files
+## 1. Files
    - Main.java
         * Run the project
    - Contacts.java
@@ -48,7 +48,7 @@ Here is something you probably use regularly: contacts. In this project, is a pr
         * Verify Phone Number
         * If is a valid Contact
         
-2. Features
+## 2. Features
    - Add Contact
         * Type Person / Organization
         * Name
